@@ -26,7 +26,7 @@
         │   └── package.json</br>
         ├── agrosence_backend/ (Node.js Server)</br>
         │   ├── src/</br>
-        │   ├── server.js</br>
+        │   ├── app.js</br>
         │   └── package.json</br>
         └── README.md</br>
 
@@ -48,7 +48,7 @@
     <p><strong>Backend:</strong></p>
         cd agrosence_backend</br>
         npm install</br>
-        node server.js</br>
+        node app.js OR npm run dev</br>
        
 
 <h2>📜 License</h2>
