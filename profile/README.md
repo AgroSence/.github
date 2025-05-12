@@ -6,9 +6,9 @@
 </head>
 <body>
     <img src="https://github.com/user-attachments/assets/bf29f871-c8e1-4891-9ba2-5e6ee5c461f8" alt="Logo AgroSence" width="150" height="auto">    
-    <h1>🌱 AgroSense</h1>
+    <h1>🌱 AgroSence</h1>
     <p>
-        AgroSense is a comprehensive solution designed to empower farmers by providing direct market access for their crops. This project, part of our college's CP-1 initiative, aims to eliminate intermediaries, improve profitability, and provide tools for enhanced agricultural practices.
+        AgroSence is a comprehensive solution designed to empower farmers by providing direct market access for their crops. This project, part of our college's CP-1 initiative, aims to eliminate intermediaries, improve profitability, and provide tools for enhanced agricultural practices.
     </p>
 
    🌾 <b>Direct Market Access:</b> Farmers can sell crops directly to buyers. </br>
@@ -19,7 +19,7 @@
    🌱 <b>AI Crop Problem Detection:</b> Diagnose issues with crops using AI.</br>
   
 <h2>📂 Project Structure </h2>
-    AgroSense/</br>
+    AgroSence/</br>
         ├── agrosence/ (React App)</br>
         │   ├── src/</br>
         │   ├── public/</br>
